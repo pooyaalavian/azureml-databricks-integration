@@ -1,0 +1,10 @@
+*.amltmp
+*.amltemp
+.ipynb_aml_checkpoints/ 
+.amlignore
+# spark files
+_started_*
+_committed_*
+_SUCCESS
+part-0*
+*.zip
