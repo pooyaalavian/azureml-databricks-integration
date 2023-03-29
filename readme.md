@@ -62,3 +62,8 @@ To perform this tutorial, you need the following resources.
 1. Check the status of your job:
     - To see overal pipeline's status, use Jobs view from Azure ML.
     - To see internal logs of the Databricks step, double-click on the databricks step and click on the link.  
+
+
+## References
+- [Azure ML `DatabricksStep` ](https://learn.microsoft.com/en-us/python/api/azureml-pipeline-steps/azureml.pipeline.steps.databricks_step.databricksstep?view=azure-ml-py)
+- [Example notebook for submitting jobs to Databricks](https://github.com/Azure/MachineLearningNotebooks/blob/master/how-to-use-azureml/machine-learning-pipelines/intro-to-pipelines/aml-pipelines-use-databricks-as-compute-target.ipynb)
